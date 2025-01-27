@@ -4,7 +4,7 @@ Bem-vindo ao **Previsão do Tempo**! 🌞🌧️
 
 Este é um projeto é um protótipo criado com o objetivo de fornecer previsões meteorológicas de forma simples e acessível. A ideia é que, com poucos cliques, o usuário consiga saber como estará o tempo na sua cidade. Tudo de maneira intuitiva e rápida.
 
-![Imagem do projeto](https://i.imgur.com/skMQjqG.jpg)
+![Imagem do projeto](https://imgur.com/DYwoZdE.jpg)
 
 ---
 
