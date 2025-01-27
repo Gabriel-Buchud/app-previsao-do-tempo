@@ -22,15 +22,19 @@ Este é um projeto é um protótipo criado com o objetivo de fornecer previsões
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Gabriel-Buchud/app-previsao-do-tempo.git
+   ```
 
 2. Navegue até a pasta do projeto:
- ```bash
-    cd weatherForecast
+```bash
+   cd weatherForecast
+```
 
 3. Instale as dependências:
- ```bash
-    npm install
+```bash
+   npm install
+```
 
 4. Inicie o servidor de desenvolvimento:
- ```bash
-    npm run dev
+```bash
+   npm run dev
+```
