@@ -1,0 +1,41 @@
+
+*{
+  color: white;
+}
+
+.weather-container{
+  background: rgba(255, 255, 255, 0.2); 
+  border-radius: 16px; 
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+  backdrop-filter: blur(5px); 
+  -webkit-backdrop-filter: blur(5px); 
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px;
+  margin: 10px;
+}
+
+h2{
+font-size: 2rem;
+}
+
+.info-weather{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.temperatura{
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.descricao{
+  text-transform: capitalize;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.detalhes{
+display: flex;
+justify-content: space-around;
+}

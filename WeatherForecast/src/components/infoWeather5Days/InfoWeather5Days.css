@@ -1,0 +1,39 @@
+
+
+.weather-container{
+  background: rgba(255, 255, 255, 0.2); 
+  border-radius: 16px; 
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+  backdrop-filter: blur(5px); 
+  -webkit-backdrop-filter: blur(5px); 
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px;
+
+  h3{
+    font-size: 1.5rem;
+  }
+}
+
+.weather-list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.weather-item{
+  background: rgba(255, 255, 255, 0.2); 
+  border-radius: 16px; 
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+  backdrop-filter: blur(5px); 
+  -webkit-backdrop-filter: blur(5px); 
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px;
+  filter: none;
+}
+
+.forecast-day, .forecast-description{
+  text-transform: capitalize;
+  font-size: 1.1rem;
+}
