@@ -6,7 +6,7 @@ Este é um aplicativo de previsão do tempo desenvolvido com **TypeScript** e **
 
 - Exibe o clima atual de uma cidade.
 - Mostra a previsão do tempo para os próximos dias.
-- Exibe dados como temperatura, umidade, velocidade do vento e descrição do clima.
+- Exibe dados como temperatura, umidade, pressão do vento e descrição do clima.
 - Permite que o usuário busque por diferentes cidades.
 
 ## 🚀 Tecnologias Utilizadas
